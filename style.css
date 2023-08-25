@@ -45,6 +45,9 @@ header nav {
     padding-bottom: 5px;
     padding-left: 10px;
     padding-right: 10px;
+    border-width: 10px;
+    border-style: outset;
+    border-color: black;        
 }
 
 
@@ -57,6 +60,9 @@ header nav {
     padding-bottom: 20px;
     padding-left: 10px;
     padding-right: 10px;
+    border-width: 20px;
+    border-style: groove;
+    border-color: black;
 }
 
 
@@ -66,8 +72,11 @@ header nav {
     background-color: sandybrown;
     padding-top: 50px;
     padding-bottom: 50px;
-    padding-left: 50px;
+    padding-left: 20px;
     padding-right: 50px;
+    border-width: 50px;
+    border-style: double ;
+    border-color: black;
 }
 
     
